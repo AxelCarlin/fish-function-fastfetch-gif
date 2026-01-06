@@ -278,7 +278,7 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 
-[Specify your license]
+[N/A]
 
 ## 🙏 Credits
 
@@ -288,7 +288,7 @@ Contributions are welcome! Feel free to:
 
 ## 📸 Screenshots
 
-_Add your screenshots here to showcase the function in action!_
+_N/A_
 
 ---
 
